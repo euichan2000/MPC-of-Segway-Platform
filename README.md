@@ -17,13 +17,13 @@ Development of segway platform with Arduino and Raspberry-Pi & balancing control
 ### 1-5. Segway hardware design & 3D printing
 
 <br/><br/><br/>
-## Chapter 2. Balancing control with PID
+## Chapter 2. Self Balancing with PID
 ### 2-1. Balancing control on segway platform with PID algorithm
 
 ### 2-2. Results
 
 <br/><br/><br/>
-## Chapter 3. Balancing control with MPC
+## Chapter 3. Self Balancing with MPC
 ### 3-1. Balacning control on segway platform with MPC algorithm
 
 ### 3-1. Results
