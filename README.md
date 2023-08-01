@@ -1,7 +1,5 @@
 # MPC-of-Segway-Platform
 
-In this project, the balance control of the segway platform is carried out
-
-Control algorithm for balance control
-  1. PID
-  2. QP & LQR & MPC
+Project Goal
+  1. Development of control algorithm platform with Arduino and Raspberry-Pi
+  2. Testing control algorithms (QP, LQR, MPC)
