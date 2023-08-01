@@ -12,11 +12,11 @@ Development of segway platform with Arduino and Raspberry-Pi & balancing control
 
 ### Chapter 1-2. Master system circuit
 
-Chapter 1-3. Slave system circuit
+### Chapter 1-3. Slave system circuit
 
-Chapter 1-4. Master-Slave SPI communication
+### Chapter 1-4. Master-Slave SPI communication
 
-Chatper 1-5. Segway hardware design & 3D printing
+### Chatper 1-5. Segway hardware design & 3D printing
 
 <br/><br/><br/>
 ### Chapter 2. Balancing control with PID
