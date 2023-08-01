@@ -7,7 +7,6 @@ Development of segway platform with Arduino and Raspberry-Pi & balancing control
 
 ## Chapter 1. Development of control algorithm platform with Arduino and Raspberry-Pi
 ### 1-1. Arduino circuit design for segway platform
-<br/>
 
 ### 1-2. Master system circuit
 
